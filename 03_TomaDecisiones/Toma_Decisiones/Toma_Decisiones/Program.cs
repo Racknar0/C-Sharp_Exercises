@@ -27,7 +27,7 @@ namespace Toma_Decisiones {
 
             // ----- IF - ----- //
 
-            string decision = "S";
+            /*string decision = "S";
 
             if(decision == "S") {
 
@@ -43,9 +43,46 @@ namespace Toma_Decisiones {
                 Console.WriteLine("La decision NO es verdadera");
             } else {
                 Console.WriteLine("Comando no aceptado");
+            }*/
+
+
+            //Operadores Logicos
+
+            
+            bool valor = false;
+            bool valor1 = true;
+            
+
+            //Or Logico Condicional ||
+           /* if(valor || valor1) {
+                Console.WriteLine("Entro a la condicion");
+            } else {
+                Console.WriteLine("No entro a la condicion");
+            } */
+
+
+
+            int gasolina, propulsor1, propulsor2;
+
+            propulsor1 = 1;
+            propulsor2 = 0;
+            gasolina = 100;
+
+            if(propulsor1 == 1 && propulsor2 == 1) {
+                if(gasolina >= 75) {
+                    Console.WriteLine("Puedes despegar");
+                } else {
+                    Console.WriteLine("falta gasolina");
+                }
+            } else if(propulsor1 == 1 || propulsor2 == 1) {
+                if( gasolina >= 100 ) {
+                    Console.WriteLine("Puedes despegar");
+                } else {
+                    Console.WriteLine("falta gasolina");
+                }
+            } else {
+                Console.WriteLine("No Puedes despegar");
             }
-
-
 
         }
     }
