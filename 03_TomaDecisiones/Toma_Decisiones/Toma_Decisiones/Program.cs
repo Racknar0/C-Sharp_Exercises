@@ -48,7 +48,7 @@ namespace Toma_Decisiones {
 
             //Operadores Logicos
 
-            
+
             /*bool valor = false;
             bool valor1 = true;*/
 
@@ -84,23 +84,78 @@ namespace Toma_Decisiones {
                 Console.WriteLine("No Puedes despegar");
             }*/
 
-            string valor = "B";
+            /* string valor = "B";
 
-            switch(valor){
-                case "A":
-                    Console.WriteLine("Se selecciono A");
+             switch(valor){
+                 case "A":
+                     Console.WriteLine("Se selecciono A");
+                     break;
+                 case "B":
+                     Console.WriteLine("Se selecciono B");
+                     break;
+                 case "C":
+                     Console.WriteLine("Se selecciono C");
+                     break;
+                 default:
+                     Console.WriteLine("Opcion no valida");
+                     break;
+             };*/
+
+
+            //Constantes
+            //const int constante = 10;
+
+            //constante = 11;
+
+
+            /*Hacer un programa que le pida al usuario un número del 1 al 12 y escriba el nombre del mes que corresponde ese número en el calendario. Agregar un case default.*/
+
+            int entrada;
+            Console.WriteLine("Ingresa un valor del 1 a 12");
+            entrada = Convert.ToInt32(Console.ReadLine());
+
+            switch(entrada) {
+                case 1:
+                    Console.WriteLine("Enero");
                     break;
-                case "B":
-                    Console.WriteLine("Se selecciono B");
+                case 2:
+                    Console.WriteLine("Febrero");
                     break;
-                case "C":
-                    Console.WriteLine("Se selecciono C");
+                case 3:
+                    Console.WriteLine("Marzo");
+                    break;
+                case 4:
+                    Console.WriteLine("Abril");
+                    break;
+                case 5:
+                    Console.WriteLine("Mayo");
+                    break;
+                case 6:
+                    Console.WriteLine("Junio");
+                    break;
+                case 7:
+                    Console.WriteLine("Julio");
+                    break;
+                case 8:
+                    Console.WriteLine("Agosto");
+                    break;
+                case 9:
+                    Console.WriteLine("Septimebre");
+                    break;
+                case 10:
+                    Console.WriteLine("Octubre");
+                    break;
+                case 11:
+                    Console.WriteLine("Noviembre");
+                    break;
+                case 12:
+                    Console.WriteLine("Diciembre");
                     break;
                 default:
-                    Console.WriteLine("Opcion no valida");
+                    Console.WriteLine("Valor no valido");
                     break;
-            };
 
+            }
 
         }
     }
