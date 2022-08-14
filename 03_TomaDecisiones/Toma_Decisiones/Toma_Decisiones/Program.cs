@@ -49,20 +49,20 @@ namespace Toma_Decisiones {
             //Operadores Logicos
 
             
-            bool valor = false;
-            bool valor1 = true;
-            
+            /*bool valor = false;
+            bool valor1 = true;*/
+
 
             //Or Logico Condicional ||
-           /* if(valor || valor1) {
-                Console.WriteLine("Entro a la condicion");
-            } else {
-                Console.WriteLine("No entro a la condicion");
-            } */
+            /* if(valor || valor1) {
+                 Console.WriteLine("Entro a la condicion");
+             } else {
+                 Console.WriteLine("No entro a la condicion");
+             } */
 
 
 
-            int gasolina, propulsor1, propulsor2;
+            /*int gasolina, propulsor1, propulsor2;
 
             propulsor1 = 1;
             propulsor2 = 0;
@@ -82,7 +82,25 @@ namespace Toma_Decisiones {
                 }
             } else {
                 Console.WriteLine("No Puedes despegar");
-            }
+            }*/
+
+            string valor = "B";
+
+            switch(valor){
+                case "A":
+                    Console.WriteLine("Se selecciono A");
+                    break;
+                case "B":
+                    Console.WriteLine("Se selecciono B");
+                    break;
+                case "C":
+                    Console.WriteLine("Se selecciono C");
+                    break;
+                default:
+                    Console.WriteLine("Opcion no valida");
+                    break;
+            };
+
 
         }
     }
