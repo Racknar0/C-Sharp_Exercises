@@ -1,0 +1,8 @@
+C:\Users\Rack\Desktop\FULL STACK\22 C#\02_Seccion2\Seccion2\Seccion2\bin\Debug\Seccion2.exe.config
+C:\Users\Rack\Desktop\FULL STACK\22 C#\02_Seccion2\Seccion2\Seccion2\bin\Debug\Seccion2.exe
+C:\Users\Rack\Desktop\FULL STACK\22 C#\02_Seccion2\Seccion2\Seccion2\bin\Debug\Seccion2.pdb
+C:\Users\Rack\Desktop\FULL STACK\22 C#\02_Seccion2\Seccion2\Seccion2\obj\Debug\Seccion2.csproj.AssemblyReference.cache
+C:\Users\Rack\Desktop\FULL STACK\22 C#\02_Seccion2\Seccion2\Seccion2\obj\Debug\Seccion2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rack\Desktop\FULL STACK\22 C#\02_Seccion2\Seccion2\Seccion2\obj\Debug\Seccion2.csproj.CoreCompileInputs.cache
+C:\Users\Rack\Desktop\FULL STACK\22 C#\02_Seccion2\Seccion2\Seccion2\obj\Debug\Seccion2.exe
+C:\Users\Rack\Desktop\FULL STACK\22 C#\02_Seccion2\Seccion2\Seccion2\obj\Debug\Seccion2.pdb

@@ -1,0 +1,8 @@
+C:\Users\Rack\Desktop\FULL STACK\22 C#\01_HolaMundo\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\Rack\Desktop\FULL STACK\22 C#\01_HolaMundo\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\Rack\Desktop\FULL STACK\22 C#\01_HolaMundo\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\Rack\Desktop\FULL STACK\22 C#\01_HolaMundo\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.AssemblyReference.cache
+C:\Users\Rack\Desktop\FULL STACK\22 C#\01_HolaMundo\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rack\Desktop\FULL STACK\22 C#\01_HolaMundo\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Rack\Desktop\FULL STACK\22 C#\01_HolaMundo\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\Rack\Desktop\FULL STACK\22 C#\01_HolaMundo\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
