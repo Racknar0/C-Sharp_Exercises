@@ -28,7 +28,7 @@ namespace Seccion2
 
 
             //CALCULAR AREA DE CUALQUIER POLIGONO REGULAR
-            int l;
+            /*int l;
             float n;
 
             Console.Write("Ingresa la cantidad de lados de tu poligono regular: ");
@@ -37,10 +37,18 @@ namespace Seccion2
             Console.Write("Ingresa la medida de un lado de tu poligono regular: ");
             n = Convert.ToInt32(Console.ReadLine());
 
+            Console.WriteLine("El perimetro de tu Poligono regular es: {0} ", (n * l)); */
 
 
-            Console.WriteLine("El perimetro de tu Poligono regular es: {0} ", (n * l));
-            
+
+
+            //Hacer un programa que transforme de grados Centígrados a grados Fahrenheit.
+            float C;
+            Console.WriteLine("Ingrese el valor en grados centigrados: ");
+            C = Convert.ToSingle(Console.ReadLine());
+
+            //(0 °C × 9/5) + 32
+            Console.WriteLine("El valor de {0}C° equivalente a grados Fahrenheit es de : {1}", C , ((C * 9/5) + 32));
 
         }
     }
