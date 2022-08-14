@@ -1,0 +1,8 @@
+C:\Users\Rack\Desktop\FULL STACK\22 C#\03_TomaDecisiones\Toma_Decisiones\Toma_Decisiones\bin\Debug\Toma_Decisiones.exe.config
+C:\Users\Rack\Desktop\FULL STACK\22 C#\03_TomaDecisiones\Toma_Decisiones\Toma_Decisiones\bin\Debug\Toma_Decisiones.exe
+C:\Users\Rack\Desktop\FULL STACK\22 C#\03_TomaDecisiones\Toma_Decisiones\Toma_Decisiones\bin\Debug\Toma_Decisiones.pdb
+C:\Users\Rack\Desktop\FULL STACK\22 C#\03_TomaDecisiones\Toma_Decisiones\Toma_Decisiones\obj\Debug\Toma_Decisiones.csproj.AssemblyReference.cache
+C:\Users\Rack\Desktop\FULL STACK\22 C#\03_TomaDecisiones\Toma_Decisiones\Toma_Decisiones\obj\Debug\Toma_Decisiones.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rack\Desktop\FULL STACK\22 C#\03_TomaDecisiones\Toma_Decisiones\Toma_Decisiones\obj\Debug\Toma_Decisiones.csproj.CoreCompileInputs.cache
+C:\Users\Rack\Desktop\FULL STACK\22 C#\03_TomaDecisiones\Toma_Decisiones\Toma_Decisiones\obj\Debug\Toma_Decisiones.exe
+C:\Users\Rack\Desktop\FULL STACK\22 C#\03_TomaDecisiones\Toma_Decisiones\Toma_Decisiones\obj\Debug\Toma_Decisiones.pdb
