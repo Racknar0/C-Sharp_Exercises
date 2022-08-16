@@ -110,52 +110,83 @@ namespace Toma_Decisiones {
 
             /*Hacer un programa que le pida al usuario un número del 1 al 12 y escriba el nombre del mes que corresponde ese número en el calendario. Agregar un case default.*/
 
-            int entrada;
-            Console.WriteLine("Ingresa un valor del 1 a 12");
-            entrada = Convert.ToInt32(Console.ReadLine());
+            /*       int entrada;
+                   Console.WriteLine("Ingresa un valor del 1 a 12");
+                   entrada = Convert.ToInt32(Console.ReadLine());
 
-            switch(entrada) {
-                case 1:
-                    Console.WriteLine("Enero");
-                    break;
-                case 2:
-                    Console.WriteLine("Febrero");
-                    break;
-                case 3:
-                    Console.WriteLine("Marzo");
-                    break;
-                case 4:
-                    Console.WriteLine("Abril");
-                    break;
-                case 5:
-                    Console.WriteLine("Mayo");
-                    break;
-                case 6:
-                    Console.WriteLine("Junio");
-                    break;
-                case 7:
-                    Console.WriteLine("Julio");
-                    break;
-                case 8:
-                    Console.WriteLine("Agosto");
-                    break;
-                case 9:
-                    Console.WriteLine("Septimebre");
-                    break;
-                case 10:
-                    Console.WriteLine("Octubre");
-                    break;
-                case 11:
-                    Console.WriteLine("Noviembre");
-                    break;
-                case 12:
-                    Console.WriteLine("Diciembre");
-                    break;
-                default:
-                    Console.WriteLine("Valor no valido");
-                    break;
+                   switch(entrada) {
+                       case 1:
+                           Console.WriteLine("Enero");
+                           break;
+                       case 2:
+                           Console.WriteLine("Febrero");
+                           break;
+                       case 3:
+                           Console.WriteLine("Marzo");
+                           break;
+                       case 4:
+                           Console.WriteLine("Abril");
+                           break;
+                       case 5:
+                           Console.WriteLine("Mayo");
+                           break;
+                       case 6:
+                           Console.WriteLine("Junio");
+                           break;
+                       case 7:
+                           Console.WriteLine("Julio");
+                           break;
+                       case 8:
+                           Console.WriteLine("Agosto");
+                           break;
+                       case 9:
+                           Console.WriteLine("Septimebre");
+                           break;
+                       case 10:
+                           Console.WriteLine("Octubre");
+                           break;
+                       case 11:
+                           Console.WriteLine("Noviembre");
+                           break;
+                       case 12:
+                           Console.WriteLine("Diciembre");
+                           break;
+                       default:
+                           Console.WriteLine("Valor no valido");
+                           break;
+                   } */
 
+            /* int entrada;
+             Console.WriteLine("Ingresa un numero");
+             entrada = Convert.ToInt32(Console.ReadLine());
+
+             if(entrada % 2 == 0) {
+                 Console.WriteLine("Es par");
+             } else {
+                 Console.WriteLine("Es Impar");
+             }*/
+
+            float tiempo;
+            tiempo = 120;
+            double cali1, cali2, cali3, promedio;
+            int cantidad;
+            int totalAlumnos;
+            int sumaCalificaciones = 0;
+            int calificacion;
+
+            Console.WriteLine("Ingresa la cantidad de estudiantes");
+            totalAlumnos = Convert.ToInt32(Console.ReadLine());
+
+            int i = 0;
+
+            for(  i = -3, Console.WriteLine("Valiable i vale: {0}",i) ; i < totalAlumnos; i++) {
+                Console.WriteLine("Ingresa la calificacion del alumno #{0}", i+1);
+                calificacion = Convert.ToInt32(Console.ReadLine());
+                sumaCalificaciones += calificacion;
             }
+
+            Console.WriteLine("El promedio de los estudiantes es de: {0}", (sumaCalificaciones / totalAlumnos));
+            
 
         }
     }
