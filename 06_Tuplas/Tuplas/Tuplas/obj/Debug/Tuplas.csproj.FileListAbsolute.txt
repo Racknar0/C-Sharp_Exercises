@@ -1,0 +1,8 @@
+C:\Users\Rack\Desktop\FULL STACK\22 C#\06_Tuplas\Tuplas\Tuplas\bin\Debug\Tuplas.exe.config
+C:\Users\Rack\Desktop\FULL STACK\22 C#\06_Tuplas\Tuplas\Tuplas\bin\Debug\Tuplas.exe
+C:\Users\Rack\Desktop\FULL STACK\22 C#\06_Tuplas\Tuplas\Tuplas\bin\Debug\Tuplas.pdb
+C:\Users\Rack\Desktop\FULL STACK\22 C#\06_Tuplas\Tuplas\Tuplas\obj\Debug\Tuplas.csproj.AssemblyReference.cache
+C:\Users\Rack\Desktop\FULL STACK\22 C#\06_Tuplas\Tuplas\Tuplas\obj\Debug\Tuplas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rack\Desktop\FULL STACK\22 C#\06_Tuplas\Tuplas\Tuplas\obj\Debug\Tuplas.csproj.CoreCompileInputs.cache
+C:\Users\Rack\Desktop\FULL STACK\22 C#\06_Tuplas\Tuplas\Tuplas\obj\Debug\Tuplas.exe
+C:\Users\Rack\Desktop\FULL STACK\22 C#\06_Tuplas\Tuplas\Tuplas\obj\Debug\Tuplas.pdb
