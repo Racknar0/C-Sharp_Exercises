@@ -1,0 +1,8 @@
+C:\Users\Rack\Desktop\FULL STACK\22 C#\05_paso_Por_Ref_Y_Paso_Por_Valor\PasoPorRefYValor\PasoPorRefYValor\bin\Debug\PasoPorRefYValor.exe.config
+C:\Users\Rack\Desktop\FULL STACK\22 C#\05_paso_Por_Ref_Y_Paso_Por_Valor\PasoPorRefYValor\PasoPorRefYValor\bin\Debug\PasoPorRefYValor.exe
+C:\Users\Rack\Desktop\FULL STACK\22 C#\05_paso_Por_Ref_Y_Paso_Por_Valor\PasoPorRefYValor\PasoPorRefYValor\bin\Debug\PasoPorRefYValor.pdb
+C:\Users\Rack\Desktop\FULL STACK\22 C#\05_paso_Por_Ref_Y_Paso_Por_Valor\PasoPorRefYValor\PasoPorRefYValor\obj\Debug\PasoPorRefYValor.csproj.AssemblyReference.cache
+C:\Users\Rack\Desktop\FULL STACK\22 C#\05_paso_Por_Ref_Y_Paso_Por_Valor\PasoPorRefYValor\PasoPorRefYValor\obj\Debug\PasoPorRefYValor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rack\Desktop\FULL STACK\22 C#\05_paso_Por_Ref_Y_Paso_Por_Valor\PasoPorRefYValor\PasoPorRefYValor\obj\Debug\PasoPorRefYValor.csproj.CoreCompileInputs.cache
+C:\Users\Rack\Desktop\FULL STACK\22 C#\05_paso_Por_Ref_Y_Paso_Por_Valor\PasoPorRefYValor\PasoPorRefYValor\obj\Debug\PasoPorRefYValor.exe
+C:\Users\Rack\Desktop\FULL STACK\22 C#\05_paso_Por_Ref_Y_Paso_Por_Valor\PasoPorRefYValor\PasoPorRefYValor\obj\Debug\PasoPorRefYValor.pdb

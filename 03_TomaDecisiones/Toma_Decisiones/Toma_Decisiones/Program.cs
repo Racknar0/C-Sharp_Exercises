@@ -25,7 +25,15 @@ namespace Toma_Decisiones {
             /*abstract - as - base - bool - break - byte - case - catch - char - checked - class - const - continue - decimal - default - delegate - do - double - else - enum - event - explicit - extern - false - finally - fixed - float - for - foreach - goto - if - implicit - in - int - interface - internal -  is - lock - long - namespace - new - null - object - operator - out - override - params - private - protected - public - readonly - ref - return - sbyte - sealed - short - sizeof - stackalloc - static - string - struct - switch - this - throw - true - try - typeof - uint - ulong - unchecked - unsafe - ushort - using - virtual - void - volatile - while - */
 
 
-            // ----- IF - ----- //
+
+
+
+
+
+            //**************************************************************************//
+            //*******************************// ----- IF - ----- //*********************//
+            //**************************************************************************//
+
 
             /*string decision = "S";
 
@@ -46,8 +54,13 @@ namespace Toma_Decisiones {
             }*/
 
 
-            //Operadores Logicos
 
+
+
+
+            //**************************************************************************//
+            //********************************Operadores Logicos************************//
+            //**************************************************************************//
 
             /*bool valor = false;
             bool valor1 = true;*/
@@ -102,7 +115,17 @@ namespace Toma_Decisiones {
              };*/
 
 
-            //Constantes
+
+
+
+
+
+            //**************************************************************************//
+            //********************************CONSTANTES********************************//
+            //**************************************************************************//
+
+
+
             //const int constante = 10;
 
             //constante = 11;
@@ -166,7 +189,16 @@ namespace Toma_Decisiones {
                  Console.WriteLine("Es Impar");
              }*/
 
-            float tiempo;
+
+
+
+            //**************************************************************************//
+            //*******************/-----SENTENCIA DE CONTROL FOR-----/*******************//
+            //**************************************************************************//
+
+
+
+            /*float tiempo;
             tiempo = 120;
             double cali1, cali2, cali3, promedio;
             int cantidad;
@@ -185,8 +217,39 @@ namespace Toma_Decisiones {
                 sumaCalificaciones += calificacion;
             }
 
-            Console.WriteLine("El promedio de los estudiantes es de: {0}", (sumaCalificaciones / totalAlumnos));
-            
+            Console.WriteLine("El promedio de los estudiantes es de: {0}", (sumaCalificaciones / totalAlumnos)); */
+
+
+
+
+            //**************************************************************************//
+            //*******************/-----SENTENCIA DE CONTROL WHILE-----/*****************//
+            //**************************************************************************//
+
+
+            /*int contador = 0;
+
+            while(contador <= 10 ) {
+                Console.WriteLine("Contador va en {0}", contador);
+                contador++;
+            } */
+
+
+
+            //**************************************************************************//
+            //*******************/-----SENTENCIA DE CONTROL DO WHILE-----/***************//
+            //**************************************************************************//
+
+
+            int contadorDo = 0;
+
+            do {
+
+                Console.WriteLine("Contador Do va en {0}", contadorDo);
+                contadorDo++;
+
+            } while(contadorDo <= 10);
+
 
         }
     }
