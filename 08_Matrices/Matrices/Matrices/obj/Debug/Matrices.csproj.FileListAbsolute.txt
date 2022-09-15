@@ -1,0 +1,8 @@
+C:\Users\Racknaro\Desktop\FULL STACK\22 C#\08_Matrices\Matrices\Matrices\bin\Debug\Matrices.exe.config
+C:\Users\Racknaro\Desktop\FULL STACK\22 C#\08_Matrices\Matrices\Matrices\bin\Debug\Matrices.exe
+C:\Users\Racknaro\Desktop\FULL STACK\22 C#\08_Matrices\Matrices\Matrices\bin\Debug\Matrices.pdb
+C:\Users\Racknaro\Desktop\FULL STACK\22 C#\08_Matrices\Matrices\Matrices\obj\Debug\Matrices.csproj.AssemblyReference.cache
+C:\Users\Racknaro\Desktop\FULL STACK\22 C#\08_Matrices\Matrices\Matrices\obj\Debug\Matrices.csproj.SuggestedBindingRedirects.cache
+C:\Users\Racknaro\Desktop\FULL STACK\22 C#\08_Matrices\Matrices\Matrices\obj\Debug\Matrices.csproj.CoreCompileInputs.cache
+C:\Users\Racknaro\Desktop\FULL STACK\22 C#\08_Matrices\Matrices\Matrices\obj\Debug\Matrices.exe
+C:\Users\Racknaro\Desktop\FULL STACK\22 C#\08_Matrices\Matrices\Matrices\obj\Debug\Matrices.pdb
