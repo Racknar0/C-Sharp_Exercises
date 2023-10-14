@@ -14,7 +14,6 @@ namespace HolaMundo
             Console.WriteLine("Mi Nombre");
             Console.WriteLine("\n");
             Console.WriteLine("Es Camilo");
-            Console.WriteLine("Tengo 30 años");
         }
     }
 }
